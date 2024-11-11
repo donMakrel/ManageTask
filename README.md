@@ -1,6 +1,6 @@
 # user_management
 
-userManagement
+My project is a task management system for users. It allows adding new users and assigning tasks to them. Users can mark tasks as completed and delete them. All operations are handled through an API.
 
 ## Getting Started
 
